@@ -7,7 +7,7 @@
 ## Project setup instructions
 To start using this project use the following commands:
 
-- `git clone https://github.com/ValentineKarimi/WEEK_4_-IP.git`
+- `git clone https://github.com/ValentineKarimi/WEEK_4_IP.git`
 - `cd  WEEK_4_IP`
 - `code .`
 

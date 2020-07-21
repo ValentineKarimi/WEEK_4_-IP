@@ -1,14 +1,14 @@
-# WEEK_4_-IP
+# WEEK_4_IP
 
 
 ## Authors
-- [ValentineKarimi](https://github.com/ValentineKarimi/WEEK_4_-IP.git)
+- [ValentineKarimi](https://github.com/ValentineKarimi/WEEK_4_IP.git)
 
 ## Project setup instructions
 To start using this project use the following commands:
 
 - `git clone https://github.com/ValentineKarimi/WEEK_4_-IP.git`
-- `cd  WEEK_4_-IP`
+- `cd  WEEK_4_IP`
 - `code .`
 
 ## License info

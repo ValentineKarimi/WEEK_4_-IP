@@ -8,7 +8,7 @@
 To start using this project use the following commands:
 
 - `git clone https://github.com/ValentineKarimi/WEEK_4_-IP.git`
-- `cd hello-world`
+- `cd  WEEK_4_-IP`
 - `code .`
 
 ## License info

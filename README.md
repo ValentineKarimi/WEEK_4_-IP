@@ -2,6 +2,7 @@
 
 
 ## Authors
+- ValentineKarimi
 - [ValentineKarimi](https://github.com/ValentineKarimi/WEEK_4_IP.git)
 
 ## Project setup instructions
@@ -10,11 +11,13 @@ To start using this project use the following commands:
 - `git clone https://github.com/ValentineKarimi/WEEK_4_IP.git`
 - `cd  WEEK_4_IP`
 - `code .`
-
+## Installation instructions
+To start using the notebook:
+Use google collab or jupyter notebook. 
+Recommended python version 3.6
 ## License info
 MIT License
 
-Copyright (c) 2018 Moringa School
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
